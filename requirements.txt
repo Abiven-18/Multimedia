@@ -1,0 +1,7 @@
+opencv-python
+librosa
+scipy
+mediapipe
+numpy
+scikit-learn
+streamlit

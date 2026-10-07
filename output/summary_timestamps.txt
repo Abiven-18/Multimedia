@@ -1,0 +1,20 @@
+Source video: video.mp4
+Selected Keyframe Timestamps:
+- 0.80s
+- 2.90s
+- 5.10s
+- 7.30s
+- 10.80s
+- 12.80s
+- 18.20s
+- 20.30s
+- 27.30s
+- 37.40s
+- 41.60s
+- 43.90s
+- 48.90s
+- 51.00s
+- 53.70s
+- 56.90s
+- 60.10s
+- 65.40s
